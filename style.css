@@ -1,0 +1,78 @@
+.body{
+    margin: 0%;
+}
+.carousel-section{
+    height: 500px;
+    width: 100%;
+    background-image: url("resourse/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: 0% 100%;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 12px;
+}
+.carousel-product-bg{
+    background-image: url("resourse/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 15% 70%;
+    background-position: 0%;
+}
+.carousel-product-bg img{
+    margin-left: 10px;
+}
+.carousel-indicators button{
+    background-image: linear-gradient(yellow, orange);
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 70px;
+}
+.carousel-section{
+    margin-bottom: 50px;
+}
+.card-align{
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.see-all{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
+    padding: 30px 30px;
+}
+.section-margin{
+    margin-bottom: 100px;
+}
+.underline{
+    content: "";
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    left: 0;
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(130deg,#ff7a18,#af002d 41.07%,#319197 76.05%);
+}
+.comments-title {
+    text-align: center;
+    padding-top: 6rem;
+    margin-bottom: 80px;
+}
+.categories-img{
+    padding: 100px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
+}
+.img-separate{
+    margin-bottom: 10px;
+}
